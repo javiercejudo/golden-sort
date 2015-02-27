@@ -1,0 +1,33 @@
+{
+  "name": "secretary-sort",
+  "version": "1.0.0",
+  "description": "Sort algorithm using the golden rule for decision making",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javiercejudo/golden-sort"
+  },
+  "keywords": [
+    "sort",
+    "sorting",
+    "golden",
+    "rule",
+    "secretary",
+    "problem"
+  ],
+  "author": "Javier Cejudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javiercejudo/golden-sort/issues"
+  },
+  "homepage": "https://github.com/javiercejudo/golden-sort",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-mocha": "^2.0.0",
+    "knuth-shuffle": "^1.0.1",
+    "should": "^5.0.0"
+  }
+}
