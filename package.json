@@ -1,5 +1,5 @@
 {
-  "name": "secretary-sort",
+  "name": "golden-sort",
   "version": "2.0.0",
   "description": "Sort algorithm using the golden rule for decision making",
   "main": "golden-sort.js",
@@ -13,10 +13,8 @@
   "keywords": [
     "sort",
     "sorting",
-    "golden",
-    "rule",
-    "secretary",
-    "problem"
+    "golden rule",
+    "secretary problem"
   ],
   "author": "Javier Cejudo",
   "license": "MIT",
